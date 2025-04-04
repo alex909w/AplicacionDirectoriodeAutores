@@ -1,0 +1,15 @@
+modelo\ModeloGeneroLiterario.class
+controller\AuthorBean.class
+modelo\util\JPAUtil.class
+model\entity\Author.class
+controlador\validador\ValidadorTelefonoSV.class
+model\entity\LiteraryGenre.class
+controlador\ControladorAutor.class
+model\AuthorModel.class
+modelo\ModeloAutor.class
+controller\validator\SVPhoneValidator.class
+model\LiteraryGenreModel.class
+modelo\util\BD.class
+modelo\entidad\GeneroLiterario.class
+model\util\JPAUtil.class
+modelo\entidad\Autor.class
