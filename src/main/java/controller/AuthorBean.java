@@ -14,9 +14,7 @@ import java.io.Serializable;
 import java.util.Date;
 import java.util.List;
 
-/**
- * ManagedBean for author operations
- */
+
 @ManagedBean
 @ViewScoped
 public class AuthorBean implements Serializable {
@@ -42,9 +40,7 @@ public class AuthorBean implements Serializable {
         loadGenres();
     }
     
-    /**
-     * Load all authors
-     */
+
     public void loadAuthors() {
         authors = authorModel.getAllAuthors();
         authorCount = authors.size();
