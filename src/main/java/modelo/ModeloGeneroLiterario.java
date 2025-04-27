@@ -1,7 +1,7 @@
 package modelo;
 
 import modelo.entidad.GeneroLiterario;
-import modelo.util.BD;
+import util.BD;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
